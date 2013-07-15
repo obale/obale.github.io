@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://obale.github.io/blog/2013/07/12/first-post/</loc>
+        <lastmod>2013-07-15T00:05:09+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://obale.github.io/blog/blog/archives/</loc>
+        <lastmod>2013-07-15T00:05:09+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://obale.github.io/blog/</loc>
+        <lastmod>2013-07-15T00:05:09+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://obale.github.io/blog/robots.txt</loc>
+        <lastmod>2013-07-12T09:55:43+02:00</lastmod>
+    </url>
+</urlset>

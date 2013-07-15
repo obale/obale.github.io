@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: first-post | Blog of Alex Oberhauser]]></title>
+  <link href="http://obale.github.io/blog/categories/first-post/atom.xml" rel="self"/>
+  <link href="http://obale.github.io/blog/"/>
+  <updated>2013-07-15T08:28:50+02:00</updated>
+  <id>http://obale.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Alex Oberhauser]]></name>
+    <email><![CDATA[alex.oberhauser@networld.to]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[WTF!?! Do you need really another blog?]]></title>
+    <link href="http://obale.github.io/blog/2013/07/12/first-post/"/>
+    <updated>2013-07-12T10:02:00+02:00</updated>
+    <id>http://obale.github.io/blog/2013/07/12/first-post</id>
+    <content type="html"><![CDATA[<p>The short answer is <em>no</em>. The long answer is, it depends&hellip; For example if I
+want to write some non-technical articles that are easier to read&hellip; or if I
+want to share with you my experience as entrepreneur&hellip; And by the way since
+when do I need a license for a blog!?</p>
+
+<!-- more -->
+
+
+<p>The Networld blog (see <a href="http://blog.networld.to">http://blog.networld.to</a>) is only from time to time active.
+Nevertheless I have decided to setup this blog in order to be more visible and
+don&rsquo;t hide behind a meta-project. It gives me also the possibility to write
+about stuff that is not directly related to Networld or one of the
+sub-projects. But don&rsquo;t expect too much. I don&rsquo;t will write about my private
+life &ndash; who the hell cares anyway!?! Except of the three letter services of course.</p>
+
+<p>On the other side I will give you information about the current efforts that
+are related to my company Sigimera Ltd., but that don&rsquo;t fit into any other
+channel. Other than that I have absolutely no clue what to write here. Maybe
+I will tell you also about my motivation and how I overcome the
+difficulties that come together with a startup.</p>
+
+<p>And at the end the full truth why this blog exists&hellip; Octopress running on
+github.io is fun to use. Nothing more, nothing less.</p>
+]]></content>
+  </entry>
+  
+</feed>
