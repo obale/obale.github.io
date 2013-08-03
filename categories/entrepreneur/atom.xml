@@ -4,7 +4,7 @@
   <title><![CDATA[Category: entrepreneur | Blog of Alex Oberhauser]]></title>
   <link href="http://blog.alex-oberhauser.com/categories/entrepreneur/atom.xml" rel="self"/>
   <link href="http://blog.alex-oberhauser.com/"/>
-  <updated>2013-07-18T16:58:30+02:00</updated>
+  <updated>2013-08-03T20:52:55+02:00</updated>
   <id>http://blog.alex-oberhauser.com/</id>
   <author>
     <name><![CDATA[Alex Oberhauser]]></name>
@@ -14,12 +14,68 @@
 
   
   <entry>
+    <title type="html"><![CDATA[<small>A Day in My Life as an Entrepreneur:</small><br/> <strong>It's all about the team</strong>]]></title>
+    <link href="http://blog.alex-oberhauser.com/2013/08/03/a-day-in-my-life-as-an-entrepreneur-its-all-about-the-team/"/>
+    <updated>2013-08-03T00:00:00+02:00</updated>
+    <id>http://blog.alex-oberhauser.com/2013/08/03/a-day-in-my-life-as-an-entrepreneur-its-all-about-the-team</id>
+    <content type="html"><![CDATA[<p>In order to be ready for the challenges as entrepreneur I try to learn as much as possible from
+different sources. One, very useful, source was, and is, the uprise and most time also downfall of other
+startups. One important thing that I have learned is that
+a startup is all about the people. With the right people you get the right know-how and the right
+environment to overcome the biggest challenges.</p>
+
+<!-- more -->
+
+
+<p>If you have not the right people for the right job you will fail. <em>Right</em> is more about attitude
+as about academic skills. Don&rsquo;t get me wrong, academic skills are a must, but everybody in your
+team should be able to get them on the go. As described in previous posts you have to extend your skills
+outside your field of expertise. It helps if you have a heterogeneous team that is able to exchange
+knowledge. Develop your expertise the same way as you would develop software in an agile way. The following
+steps are a simplified way how such a process for knowledge exchange can look like:</p>
+
+<ol>
+<li>Define a challenge that you want solve, e.g. with a clear problem statement</li>
+<li>Learn as much as possible about this topic.</li>
+<li>Listen and discuss with people around you, maybe you have an expert in your team or you can get feedback
+from somebody outside.</li>
+<li>Evaluate all knowledge that (you think) you have about this topic.</li>
+<li>If your knowledge is sufficient to solve the challenge you are good, otherwise get back to
+point 3.</li>
+</ol>
+
+
+<p>As you can see you extend your skills in an iterative way. The most important, but also hardest part
+is point 4. Nobody likes to admit that he or she is wrong or that the own knowledge is not accurate or
+incomplete. But without acknowledging your failures you are not able to learn, at least not so fast as you
+could. To be honest I am not as good as I should with this point, but I try to get better each day.</p>
+
+<p>Now we know how we can improve our skills via knowledge exchange. This makes us to an important
+member of our team. But what is about the right attitude? My personal feeling is that the right attitude is
+crucial to survive, at least for a young startup. It is the breeding ground for innovation. Do you really
+want to be part of an startup? The right answer should be YES, at least for a few years. You should not miss this
+opportunity.</p>
+
+<p>It can be a roller coaster ride, with a lot of downs and ups, especially if you have to motivate yourself each single day&hellip;
+But it is definitely worth it. You invest a few years of your life to learn and improve your skills and not to forget your
+personality&hellip; hopefully to something better. Dependent on your goals you have maybe also a positive impact on your society.
+We all are getting older each day and our priorities change. This is also the
+reason why I have decided to take the chance to be an entrepreneur now and for the next few years. Independent if it succeeds
+or fails I will shift for sure to a more stable life in a later point in time, but I definitely don&rsquo;t want to miss the
+possibility to be an entrepreneur.</p>
+
+<p>Please let me know in the comments or via other means how you motivate yourself and your team. Looking
+forward to other views about this topic.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[<small>A day in my life as an entrepreneur:</small> <br/><strong>The Motivation</strong>]]></title>
     <link href="http://blog.alex-oberhauser.com/2013/07/17/a-day-in-my-life-as-an-entrepreneur-the-motivation/"/>
     <updated>2013-07-17T00:00:00+02:00</updated>
     <id>http://blog.alex-oberhauser.com/2013/07/17/a-day-in-my-life-as-an-entrepreneur-the-motivation</id>
     <content type="html"><![CDATA[<p>After the first post in this series &ndash;
-<a href="{{root_dir}}/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining/">The Beginning</a> &ndash;
+<a href="/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining/">The Beginning</a> &ndash;
 I was asked to write something about my motivation and how my days look
 like. Where should I start&hellip; Do you don&rsquo;t dream about working without breaks 24/7 and have a job
 where you don&rsquo;t get money, but you have to pay for it&hellip; Really not!?! Then
@@ -83,7 +139,7 @@ is always better than not to have tried. I take my chance&hellip; What about you
     <updated>2013-07-15T08:08:00+02:00</updated>
     <id>http://blog.alex-oberhauser.com/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining</id>
     <content type="html"><![CDATA[<p>This is the first post in the series
-<a href="{{%20root_url%20}}/categories/day-in-my-life-as-entrepreneur/">A day in my life as an entrepreneur</a>.
+<a href="/categories/day-in-my-life-as-entrepreneur/">A day in my life as an entrepreneur</a>.
 In this series I will share my experience how it feels to be an entrepreneur and what challenges
 we face in our day-to-day work. This is basically the story of my company
 <a href="http://www.sigimera.com">Sigimera Ltd</a>. and how we survive outside the
