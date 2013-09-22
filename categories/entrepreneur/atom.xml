@@ -4,7 +4,7 @@
   <title><![CDATA[Category: entrepreneur | Blog of Alex Oberhauser]]></title>
   <link href="http://blog.alex-oberhauser.com/categories/entrepreneur/atom.xml" rel="self"/>
   <link href="http://blog.alex-oberhauser.com/"/>
-  <updated>2013-08-03T20:52:55+02:00</updated>
+  <updated>2013-09-22T11:57:31+02:00</updated>
   <id>http://blog.alex-oberhauser.com/</id>
   <author>
     <name><![CDATA[Alex Oberhauser]]></name>
@@ -75,7 +75,7 @@ forward to other views about this topic.</p>
     <updated>2013-07-17T00:00:00+02:00</updated>
     <id>http://blog.alex-oberhauser.com/2013/07/17/a-day-in-my-life-as-an-entrepreneur-the-motivation</id>
     <content type="html"><![CDATA[<p>After the first post in this series &ndash;
-<a href="/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining/">The Beginning</a> &ndash;
+<a href="{{root_dir}}/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining/">The Beginning</a> &ndash;
 I was asked to write something about my motivation and how my days look
 like. Where should I start&hellip; Do you don&rsquo;t dream about working without breaks 24/7 and have a job
 where you don&rsquo;t get money, but you have to pay for it&hellip; Really not!?! Then
@@ -139,7 +139,7 @@ is always better than not to have tried. I take my chance&hellip; What about you
     <updated>2013-07-15T08:08:00+02:00</updated>
     <id>http://blog.alex-oberhauser.com/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining</id>
     <content type="html"><![CDATA[<p>This is the first post in the series
-<a href="/categories/day-in-my-life-as-entrepreneur/">A day in my life as an entrepreneur</a>.
+<a href="{{%20root_url%20}}/categories/day-in-my-life-as-entrepreneur/">A day in my life as an entrepreneur</a>.
 In this series I will share my experience how it feels to be an entrepreneur and what challenges
 we face in our day-to-day work. This is basically the story of my company
 <a href="http://www.sigimera.com">Sigimera Ltd</a>. and how we survive outside the
