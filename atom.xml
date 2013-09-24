@@ -4,7 +4,7 @@
   <title><![CDATA[Blog of Alex Oberhauser]]></title>
   <link href="http://blog.alex-oberhauser.com/atom.xml" rel="self"/>
   <link href="http://blog.alex-oberhauser.com/"/>
-  <updated>2013-09-22T13:21:54+02:00</updated>
+  <updated>2013-09-24T23:54:08+02:00</updated>
   <id>http://blog.alex-oberhauser.com/</id>
   <author>
     <name><![CDATA[Alex Oberhauser]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[<small>A day in my life as an entrepreneur:</small> <br/><strong>A company profile</strong>]]></title>
+    <link href="http://blog.alex-oberhauser.com/2013/09/24/next-post/"/>
+    <updated>2013-09-24T00:00:00+02:00</updated>
+    <id>http://blog.alex-oberhauser.com/2013/09/24/next-post</id>
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+      <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.alex-oberhauser.com%2F2013%2F09%2F24%2Fnext-post%2F&amp;user_id=obale&amp;title=%3Csmall%3EA+day+in+my+life+as+an+entrepreneur%3A%3C%2Fsmall%3E+%3Cbr%2F%3E%3Cstrong%3EA+company+profile%3C%2Fstrong%3E&amp;category=text&amp;description=Alex+Oberhauser+is+a+social+tech-entrepreneur+and+graduated+computer+scientist.+He+is+co-founder+and+CEO+of+%3Ca+href%3D%22http%3A%2F%2Fwww.sigimera.com%22+target%3D%22_blank%22%3ESigimera+Ltd.%3C%2Fa%3E+and+founded+the+software+incubator+project+%3Ca+href%3D%22http%3A%2F%2Fnetworld.to%22+target%3D%22_blank%22%3ENetworld%3C%2Fa%3E.%3Cbr%2F%3E%0A&amp;tags=day-in-my-life-as-entrepreneur%2Centrepreneur" type="text/html" />
+    
+    <content type="html"><![CDATA[<p>Currently Sigimera moves fast, but mainly in the shadow of the public. We have
+extended our team, to be even more heterogeneous. That know-how that we need
+and that we don&rsquo;t have directly in-house we are able to get from our direct
+environment. This external know-how includes not only the academic side, but
+also the industrial. We are not only preparing for our new product launch, but
+also provide consulting and cooperate with developers that want to use our
+previous product. The combination of all activities will improve the new
+service that we will launch soon.</p>
+
+<!-- more -->
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[<small>A day in my life as an entrepreneur:</small> <br/><strong>Sigimera Ltd. in Amsterdam</strong>]]></title>
@@ -32,7 +67,7 @@
 
 
 
-      <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.alex-oberhauser.com%2F2013%2F09%2F22%2Fa-day-in-my-life-as-an-entrepreneur-new-context%2F&amp;user_id=obale&amp;title=%3Csmall%3EA+day+in+my+life+as+an+entrepreneur%3A%3C%2Fsmall%3E+%3Cbr%2F%3E%3Cstrong%3ESigimera+Ltd.+in+Amsterdam%3C%2Fstrong%3E&amp;category=text&amp;description=Alex+Oberhauser+is+a+social+tech-entrepreneur+and+graduated+computer+scientist.+He+is+co-founder+and+CEO+of+%3Ca+href%3D%22http%3A%2F%2Fwww.sigimera.com%22+target%3D%22_blank%22%3ESigimera+Ltd.%3C%2Fa%3E+and+founded+the+software+incubator+project+%3Ca+href%3D%22http%3A%2F%2Fnetworld.to%22+target%3D%22_blank%22%3ENetworld%3C%2Fa%3E.%3Cbr%2F%3E%0A&amp;tags=" type="text/html" />
+      <link rel="payment" href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.alex-oberhauser.com%2F2013%2F09%2F22%2Fa-day-in-my-life-as-an-entrepreneur-new-context%2F&amp;user_id=obale&amp;title=%3Csmall%3EA+day+in+my+life+as+an+entrepreneur%3A%3C%2Fsmall%3E+%3Cbr%2F%3E%3Cstrong%3ESigimera+Ltd.+in+Amsterdam%3C%2Fstrong%3E&amp;category=text&amp;description=Alex+Oberhauser+is+a+social+tech-entrepreneur+and+graduated+computer+scientist.+He+is+co-founder+and+CEO+of+%3Ca+href%3D%22http%3A%2F%2Fwww.sigimera.com%22+target%3D%22_blank%22%3ESigimera+Ltd.%3C%2Fa%3E+and+founded+the+software+incubator+project+%3Ca+href%3D%22http%3A%2F%2Fnetworld.to%22+target%3D%22_blank%22%3ENetworld%3C%2Fa%3E.%3Cbr%2F%3E%0A&amp;tags=day-in-my-life-as-entrepreneur%2Centrepreneur" type="text/html" />
     
     <content type="html"><![CDATA[<p>It is more than a month ago, I published the last blog post. Let me get you updated what
 happened during this time. There were two major, somehow interconnected, changes. The first is
