@@ -4,7 +4,7 @@
   <title><![CDATA[Category: day-in-my-life-as-entrepreneur | Blog of Alex Oberhauser]]></title>
   <link href="http://blog.alex-oberhauser.com/categories/day-in-my-life-as-entrepreneur/atom.xml" rel="self"/>
   <link href="http://blog.alex-oberhauser.com/"/>
-  <updated>2014-01-23T22:24:17+01:00</updated>
+  <updated>2014-04-25T17:42:10+02:00</updated>
   <id>http://blog.alex-oberhauser.com/</id>
   <author>
     <name><![CDATA[Alex Oberhauser]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[<small>A day in my life as an entrepreneur:</small> <br/><strong>It is getting serious...</strong>]]></title>
+    <link href="http://blog.alex-oberhauser.com/2014/04/25/a-day-in-my-life-as-entrepreneur-sigimera-fundraising-pilot-phase/"/>
+    <updated>2014-04-25T18:00:00+02:00</updated>
+    <id>http://blog.alex-oberhauser.com/2014/04/25/a-day-in-my-life-as-entrepreneur-sigimera-fundraising-pilot-phase</id>
+    <content type="html"><![CDATA[<p>A lot has happened since the year 2013 has gone to an end. Sigimera is now more
+active and more publicly present. I have reached out to different parties and
+started hosting different events. We have started our pilot phase with our new
+service <a href="http://fundraising.sigimera.com/">Sigimera Fundraising</a>. Also if you
+are not interested in fundraising you can use it to get familiar with Bitcoin.</p>
+
+<p><img src="/images/sigimera_fundraising_coming_soon_banner.png" alt="Sigimera Fundraising Coming Soon Banner - http://pilot.sigimera.org" /></p>
+
+<!-- more -->
+
+
+<p>During this pilot phase and the related events we got useful feedback that we
+incorporate stepwise in the current <a href="http://pilot.sigimera.org">pilot</a>. And if
+that is not enough we have started to work seriously on a backend
+model that spreads across the fields of finance, social studies, economy,
+computer science and even neural science. It is hard to say in this early
+stage, but as simple as it will be for our users as sophisticated it will
+be in background. We believe that fundraising as it is now is not good enough
+and could be improved in an essential way. That will be my mission for at least
+the next few months, but more likely the next few years.</p>
+
+<p>Sigimera is ready to get serious and provide you with a service that will
+change your perspective how you view fundraising and campaigns. Stay tuned for
+more information or even better contact me directly. Looking forward to it!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[<small>A day in my life as an entrepreneur:</small> <br/><strong>The Year 2013...</strong>]]></title>
@@ -205,7 +237,7 @@ forward to other views about this topic.</p>
     <updated>2013-07-17T00:00:00+02:00</updated>
     <id>http://blog.alex-oberhauser.com/2013/07/17/a-day-in-my-life-as-an-entrepreneur-the-motivation</id>
     <content type="html"><![CDATA[<p>After the first post in this series &ndash;
-<a href="/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining/">The Beginning</a> &ndash;
+<a href="{{root_dir}}/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining/">The Beginning</a> &ndash;
 I was asked to write something about my motivation and how my days look
 like. Where should I start&hellip; Do you don&rsquo;t dream about working without breaks 24/7 and have a job
 where you don&rsquo;t get money, but you have to pay for it&hellip; Really not!?! Then
@@ -260,44 +292,6 @@ is always better than not to have tried. I take my chance&hellip; What about you
 
 <blockquote><p>A journey of a thousand miles begins with a single step.<br/>
 <em><small>by Lao-tzu, The Way of Lao-tzu</small></em></p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[<small>A day in my life as an entrepreneur:</small> <br/><strong>The Beginning</strong>]]></title>
-    <link href="http://blog.alex-oberhauser.com/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining/"/>
-    <updated>2013-07-15T08:08:00+02:00</updated>
-    <id>http://blog.alex-oberhauser.com/2013/07/15/a-day-in-my-life-as-an-entrepreneur-the-begining</id>
-    <content type="html"><![CDATA[<p>This is the first post in the series
-<a href="/categories/day-in-my-life-as-entrepreneur/">A day in my life as an entrepreneur</a>.
-In this series I will share my experience how it feels to be an entrepreneur and what challenges
-we face in our day-to-day work. This is basically the story of my company
-<a href="http://www.sigimera.com">Sigimera Ltd</a>. and how we survive outside the
-big startup hubs. Although we profit from the current
-startup hype around the world we are currently not directly part of it. But lets start from
-the beginning a few years ago&hellip;</p>
-
-<!--more -->
-
-
-<p>All started 5 years ago during a dark and stormy winter night in an even darker cellar&hellip; No,
-just kidding! The time span ago is approximately true, although it is always hard to say, because you don&rsquo;t
-wake up and say: &ldquo;Today I start my new life as entrepreneur!&rdquo;. The rest is made up. Not all stereotypes are true.
-Nevertheless&hellip; Around this time I have started my first smaller projects and a short time period after, it was
-clear that I want to start my own company, in order to professionally support this projects. I should
-mention that I have a background in business and studied at that time computer science at the University of Innsbruck.
-This is a powerful combination that helps, but is not needed, so don&rsquo;t be afraid.
-During this time I have exploited different technologies and switched pretty often between projects. The
-time was not right for the one big project to rule them all.
-This was the first phase were I have learned my craft and invested a lot of time to get the basic right and this
-approach has never changed. Never stop learning!!!
-Additional it was useful that I owned the domain <a href="http://networld.to">networld.to</a> and one server.
-With this basic infrastructure I was able to setup a first working environment used for the software
-development and get a feeling about workflows and what works and what doesn&rsquo;t for our team.</p>
-
-<p>Now that I have bored you enough let me know in the comments what you expect from such a series of blog post.
-Should I continue in chronologically order? Or should I move to the present and write from time to time
-flashbacks? Do you want know something special? Every feedback is really appreciated.</p>
 ]]></content>
   </entry>
   
